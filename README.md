@@ -1,4 +1,3 @@
-# android_vendor_leagoo_Z6
 Vendor blobls Leagoo Z6
 Leagoo Z6
 ======================
