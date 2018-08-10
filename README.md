@@ -1,5 +1,4 @@
 Vendor blobls Leagoo Z6
-Leagoo Z6
 ======================
 
 ![Leagoo Z6](https://hotline.ua/img/tx/164/164821148_s265.jpg "Leagoo Z6")
